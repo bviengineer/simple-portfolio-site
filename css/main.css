@@ -1,0 +1,121 @@
+/**********************
+    Global Rules
+***********************/
+body {
+    font-family: 'Didact Gothic', sans-serif;
+    color: #2d3c49;
+}
+
+
+/*******************
+    Header Section
+********************/
+.fa-leaf {
+    font-size: 3em;
+    color: #dd0a6c;
+    height: auto;
+    padding-bottom: 0;
+    margin: 0;
+}
+
+#dev-name {
+    font-weight: normal;
+    color: #2d3c49;
+    font-size: 1.8em;
+    text-transform: uppercase;
+    text-align: right;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 0;
+    padding-top: 2em;
+}
+
+#dev-title {
+    color: #dd0a6c;
+    font-size: 1.4em;
+    text-align: right;
+    font-weight: bold;
+}
+
+hr {
+    border-radius: 10px;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 2px;
+    background-color: #7d97ad;
+}
+
+
+/********************
+    Main Section
+*********************/
+#main-img {
+    width: 100%;
+    height: auto;
+}
+
+/* featured work styles begin here*/
+#featured-work-h2 {
+    color:#dd0a6c;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0.5em;
+}
+
+.feature-img-div {
+    padding-bottom: 1em;
+    transition: background-color 0.7s ease;
+    /*CSS transition help: CSS Tricks
+    url: https://css-tricks.com/almanac/properties/t/transition/
+    */
+}
+
+.feature-img-div:hover {
+    background-color: #5a6f81;
+    opacity: 0.9;
+}
+
+#project1, #project2, #project3 {    
+    max-width: 100%;
+    height: auto;
+    box-shadow: 5px 3px #2d3c49;
+} 
+
+figcaption {
+    text-align: center;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: #dd0a6c;
+}
+
+
+/***********************
+    Footer
+************************/
+footer {
+    padding-top: 2em;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.social-media-div {
+    text-align: center;
+}
+
+.social-media-icons {
+    text-align: center;
+    margin-right: 0.5em;
+    margin-left: 0.5em;
+    font-size: 1.4em;
+}
