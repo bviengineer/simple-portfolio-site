@@ -83,6 +83,11 @@ hr {
     box-shadow: 5px 3px #2d3c49;
 } 
 
+#project4 {
+    max-width: 100%;
+    height: 175px;
+}
+
 figcaption {
     text-align: center;
     font-size: 1.4em;
