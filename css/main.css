@@ -73,11 +73,10 @@ hr {
 }
 
 .feature-img-div:hover {
-    /* background-color: #5a6f81; */
     opacity: 0.5;
 }
 
-#project1, #project2, #project3, #project4 {    
+#project1, #project2, #project3, #project4, #project5, #project6, #project7, #project8 {    
     max-width: 100%;
     height: auto;
     box-shadow: 5px 3px #2d3c49;
