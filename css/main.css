@@ -76,7 +76,7 @@ hr {
     opacity: 0.5;
 }
 
-#project1, #project2, #project3, #project4, #project5, #project6, #project7, #project8, #project9, #project10 {    
+.project-screenshot {    
     max-width: 100%;
     height: auto;
     box-shadow: 5px 3px #2d3c49;
